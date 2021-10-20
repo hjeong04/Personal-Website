@@ -1,0 +1,5 @@
+need to fix the two lines next to the title name
+need to fix the back to the top (maybe keep what they suggest)
+
+<a href='https://www.freepik.com/vectors/business'>Business vector created by freepik - www.freepik.com</a>
+<a href='https://www.freepik.com/vectors/people'>People vector created by jcomp - www.freepik.com</a>
